@@ -8,8 +8,7 @@ Born and raised in Rapid City, South Dakota. I grew up using computers, my paren
 
 I did not complete my degree at the South Dakota School of Mines & Technology, but instead took a break from school for two years working retail and as an office manager for my cousin's business, Reber Sanitation, before eventually deciding to finish my degree at the University of Advancing Technology in Tempe, AZ.
 
-# COMMUNITY STATEMENT
-{: style="text-align: center;"}
+<h1 align="center"> COMMUNITY STATEMENT </h1>
 
 While continuing my educational journey in the fields of Advancing Computer Science and Network Security, I have learned so much by participating in different educational events. While participating in the Collegiate Cyber Defense Competition, aka CCDC, I learned a lot about how to identify network attacks as well as how to defend networks from an attack in-progress. I also learned how to take inventory of all computers and running services for both employees and customers on a network. While the focus of these events is primarily network security based, I do learn a lot about shell scripting and exploit creation as a way of better securing the networks we are tasked with securing.
 {: .indent}
